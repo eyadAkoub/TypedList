@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e91e63</color>
+    <color name="colorPrimaryDark">#d81b60</color>
+    <color name="colorAccent">#2196f3</color>
+
+    <color name="pink500">#e91e63</color>
+    <color name="pink600">#d81b60</color>
+    <color name="pink700">#c2185b</color>
+    <color name="pink800">#ad1457</color>
+    <color name="blue500">#2196f3</color>
+    <color name="blue600">#1e88e5</color>
+    <color name="blue700">#1976d2</color>
+    <color name="blue800">#1565c0</color>
+    <color name="brown500">#795548</color>
+    <color name="green300">#42bd41</color>
+
+
+
+</resources>

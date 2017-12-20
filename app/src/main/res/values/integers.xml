@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="min_fps">10</integer>
+    <integer name="max_fps">30</integer>
+
+    <integer-array name="second_values">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+    </integer-array>
+
+</resources>

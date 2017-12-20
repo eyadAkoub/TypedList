@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="vectorColour">
+        <attr name="mainColour" format="color"/>
+    </declare-styleable>
+</resources>
